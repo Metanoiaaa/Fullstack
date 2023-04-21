@@ -11,7 +11,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<MyDbContext>(options =>
 {
-    options.UseMySQL("server=localhost;port=3306;user=root;password=;database=apitest");
+    options.UseMySQL("server=localhost;port=3306;user=root;password=;database=grillfest");
 });
 
 var app = builder.Build();

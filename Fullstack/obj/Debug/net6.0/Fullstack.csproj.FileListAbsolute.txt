@@ -71,3 +71,8 @@ C:\Users\obeva\source\repos\Fullstack\Fullstack\bin\Debug\net6.0\runtimes\browse
 C:\Users\obeva\source\repos\Fullstack\Fullstack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\obeva\source\repos\Fullstack\Fullstack\bin\Debug\net6.0\DataLaag.dll
 C:\Users\obeva\source\repos\Fullstack\Fullstack\bin\Debug\net6.0\DataLaag.pdb
+C:\Users\obeva\source\repos\Fullstack\Fullstack\bin\Debug\net6.0\Humanizer.dll
+C:\Users\obeva\source\repos\Fullstack\Fullstack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\obeva\source\repos\Fullstack\Fullstack\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\obeva\source\repos\Fullstack\Fullstack\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\obeva\source\repos\Fullstack\Fullstack\bin\Debug\net6.0\System.CodeDom.dll
