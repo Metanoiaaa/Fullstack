@@ -1,0 +1,14 @@
+C:\Users\obeva\source\repos\Fullstack\ClassLibrary1\bin\Debug\net6.0\DataLaag.deps.json
+C:\Users\obeva\source\repos\Fullstack\ClassLibrary1\bin\Debug\net6.0\DataLaag.runtimeconfig.json
+C:\Users\obeva\source\repos\Fullstack\ClassLibrary1\bin\Debug\net6.0\DataLaag.dll
+C:\Users\obeva\source\repos\Fullstack\ClassLibrary1\bin\Debug\net6.0\DataLaag.pdb
+C:\Users\obeva\source\repos\Fullstack\ClassLibrary1\obj\Debug\net6.0\DataLaag.csproj.AssemblyReference.cache
+C:\Users\obeva\source\repos\Fullstack\ClassLibrary1\obj\Debug\net6.0\DataLaag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\obeva\source\repos\Fullstack\ClassLibrary1\obj\Debug\net6.0\DataLaag.AssemblyInfoInputs.cache
+C:\Users\obeva\source\repos\Fullstack\ClassLibrary1\obj\Debug\net6.0\DataLaag.AssemblyInfo.cs
+C:\Users\obeva\source\repos\Fullstack\ClassLibrary1\obj\Debug\net6.0\DataLaag.csproj.CoreCompileInputs.cache
+C:\Users\obeva\source\repos\Fullstack\ClassLibrary1\obj\Debug\net6.0\DataLaag.dll
+C:\Users\obeva\source\repos\Fullstack\ClassLibrary1\obj\Debug\net6.0\refint\DataLaag.dll
+C:\Users\obeva\source\repos\Fullstack\ClassLibrary1\obj\Debug\net6.0\DataLaag.pdb
+C:\Users\obeva\source\repos\Fullstack\ClassLibrary1\obj\Debug\net6.0\DataLaag.genruntimeconfig.cache
+C:\Users\obeva\source\repos\Fullstack\ClassLibrary1\obj\Debug\net6.0\ref\DataLaag.dll
